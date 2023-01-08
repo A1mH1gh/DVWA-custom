@@ -1,0 +1,8 @@
+[php.ini]
+line:868
+allow_url_include=On
+;allow_url_include=Off "Changed at 23.01.04 for dvwa"
+
+line:925
+extension=gd
+'extension=gd "Changed at 23.01.04 for dvwa"
