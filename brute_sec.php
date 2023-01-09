@@ -4,8 +4,8 @@
     
     // LOW
     // 사용자 입력 필터링하지 않음
-    $user = $_GET[ 'username' ];
-    $pass = $_GET[ 'password' ];
+    $user = $_POST[ 'username' ]; 
+    $pass = $_POST[ 'password' ];
 
     // MEDIUM
     // 사용자 입력 필터링함 : mysqli_real_escape_string()

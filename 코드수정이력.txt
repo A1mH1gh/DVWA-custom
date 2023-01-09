@@ -5,4 +5,4 @@ allow_url_include=On
 
 line:925
 extension=gd
-'extension=gd "Changed at 23.01.04 for dvwa"
+;extension=gd "Changed at 23.01.04 for dvwa"
